@@ -1,2 +1,4 @@
 # hello-world
-This repository hello-world project for developing Android Studio based application.
+This repository hello-world project is created to develope Android Studio based application.
+# Author: Sushil Thapa
+I have created a branch file in this project, where most of the changes will be updated.
